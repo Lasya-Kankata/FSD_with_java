@@ -1,0 +1,4 @@
+127.0.0.1 - - [11/Jun/2024:15:06:34 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [11/Jun/2024:15:06:34 +0530] "GET /ProductLayeredArchitecture/ HTTP/1.1" 200 416
+0:0:0:0:0:0:0:1 - - [11/Jun/2024:15:06:34 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [11/Jun/2024:15:07:08 +0530] "GET /ProductLayeredArchitecture/ProductServlet?id=123&name=laptop&price=800000 HTTP/1.1" 200 467

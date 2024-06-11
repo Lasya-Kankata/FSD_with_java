@@ -1,0 +1,5 @@
+INDEX VERSION 1.4+C:\Lasya\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+230030569.index
+1467418830.index
+757038570.index
+1405472127.index

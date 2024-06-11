@@ -1,0 +1,13 @@
+package com.pace.service;
+
+public class ProductServiceProvider {
+	private ProductDAO productDAO=new ProductDAO();
+
+	public void addDetails(Product product) {
+	productDAO.addDetails(product);
+	}
+
+	public ArrayList<Product> sendDetails(){
+	return productDAO.sendDetails();
+	}
+}
